@@ -1,4 +1,4 @@
-package com.aexp.AEChatBox;
+package com.aexp.aechatbox;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
